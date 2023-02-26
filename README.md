@@ -1,5 +1,6 @@
 # proxyout
 list of open free proxy, updated bi-hourly (as long as my localhost alive) ^_^
+for the time being, only https proxy.
 
 
 ## Direct link to output files
@@ -15,4 +16,9 @@ list of open free proxy, updated bi-hourly (as long as my localhost alive) ^_^
 /usr/bin/curl --max-time 15 -k -s -x '$aip:$aport' https://api.ipify.org/
 
 ## Thanks to:
-- [https://api.ipify.org/](https://api.ipify.org/)
+- https://api.ipify.org/
+- https://ifconfig.me/ip
+- https://api.my-ip.io/ip
+
+
+Last updated at Sun, 26 Feb 2023 21:13:58 +0700 -- found 236 proxy
