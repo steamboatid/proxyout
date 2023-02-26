@@ -7,10 +7,10 @@ list of open free proxy
 
 
 ## Test method:
-- check the port is opened
+- check the port is opened\
 /usr/bin/nmap -P0 $aip -p $aport
 
-- check ip
+- check ip\
 /usr/bin/curl --max-time 15 -k -s -x '$aip:$aport' https://api.ipify.org/
 
 ## Thanks to:
