@@ -21,4 +21,4 @@ for the time being, only https proxy.
 - https://api.my-ip.io/ip
 
 
-Last updated at Mon, 27 Feb 2023 00:41:15 +0700 -- found 281 proxy
+Last updated at Mon, 27 Feb 2023 01:02:47 +0700 -- found 273 proxy
