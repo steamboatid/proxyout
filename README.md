@@ -1,5 +1,6 @@
 # proxyout
-list of open free proxy
+list of open free proxy, updated bi-hourly (as long as my localhost alive) ^_^
+
 
 ## Direct link to output files
 - [https://raw.githubusercontent.com/steamboatid/proxyout/main/proxy.json](https://raw.githubusercontent.com/steamboatid/proxyout/main/proxy.json)
