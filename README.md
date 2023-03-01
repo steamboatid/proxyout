@@ -36,4 +36,4 @@ for the time being, only socks5 proxy.
 - https://www.freeproxy.world/?type=socks5&anonymity=&country=&speed=&port=&page=1
 
 
-Last updated at Thu, 02 Mar 2023 00:51:06 +0700 -- found 65 socks5 proxy
+Last updated at Thu, 02 Mar 2023 01:00:08 +0700 -- found 65 socks5 proxy
