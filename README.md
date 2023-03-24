@@ -46,4 +46,4 @@ http://myexternalip.com/raw
 http://checkip.amazonaws.com/
 
 
-Last updated at Fri, 24 Mar 2023 09:10:04 +0700 -- found 1 socks5 proxy
+Last updated at Fri, 24 Mar 2023 09:48:03 +0700 -- found 1 socks5 proxy
